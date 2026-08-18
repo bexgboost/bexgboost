@@ -34,7 +34,7 @@ I also write hands-on AI and ML tutorials on [Medium](https://ibexorigin.medium.
 ### 📈 My GitHub activity
 
 <p align="center">
-  <img height="180em" src="https://bex-github-readme-stats.vercel.app/api?username=BexTuychiev&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&theme=default" alt="Bex's GitHub stats" />
+  <img height="180em" src="https://bex-github-readme-stats.vercel.app/api?username=bexgboost&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&theme=default" alt="Bex Tuychiev's GitHub stats" />
 </p>
 
 <p align="center">
