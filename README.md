@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Bex 👋</h1>
 
 <p align="center">
-  <em>Freelance AI Engineer | Helping healthcare teams build AI &amp; voice agent systems | 300+ technical articles published</em>
+  <em>Applied AI Engineer | Helping healthcare teams build AI &amp; voice agent systems | 5M+ views on my technical writing</em>
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 ### 👋 About
 
-I'm a freelance AI engineer building voice agents and LLM systems. Most of my work is on the parts that decide whether AI survives contact with real users — reliability, evaluation, and monitoring, rather than the demo. I'm focusing more and more on healthcare, where a broken system does real damage.
+I'm an applied AI engineer. I build voice agents and LLM systems, and most of my work goes into making them reliable enough to run in production. Preferably in healthcare.
 
 ---
 
