@@ -17,7 +17,7 @@
 
 ### 👋 About
 
-I'm an AI engineer. I build voice agents and LLM systems, and most of my work goes into making them reliable enough to run in production. Evals are how I prove it.
+I'm an AI engineer. I build voice agents and LLM systems, and most of my work goes into making them reliable enough to run in production.
 
 ---
 
