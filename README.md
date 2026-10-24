@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Bex 👋</h1>
 
 <p align="center">
-  <em>Applied AI Engineer | Helping healthcare teams build AI &amp; voice agent systems | 5M+ views on my technical writing</em>
+  <em>AI Engineer | Production voice agents and LLM systems, measured with evals | 5M+ views on my technical writing</em>
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 ### 👋 About
 
-I'm an applied AI engineer. I build voice agents and LLM systems, and most of my work goes into making them reliable enough to run in production. Preferably in healthcare.
+I'm an AI engineer. I build voice agents and LLM systems, and most of my work goes into making them reliable enough to run in production. Evals are how I prove it.
 
 ---
 
